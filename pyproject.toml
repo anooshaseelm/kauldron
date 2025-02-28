@@ -22,7 +22,7 @@ dependencies = [
     "einops",
     "etils[edc,enp,epath,epy,etree]",
     "flax",
-    "grain",
+    "grain==0.2.5",
     "graphviz",
     "immutabledict",
     "jax",
