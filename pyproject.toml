@@ -22,7 +22,7 @@ dependencies = [
     "einops",
     "etils[edc,enp,epath,epy,etree]",
     "flax",
-    "grain ; sys_platform != 'win32'",
+    "grain-nightly ; sys_platform != 'win32'",
     "graphviz",
     "immutabledict",
     "jax",
